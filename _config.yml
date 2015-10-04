@@ -1,0 +1,18 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               protos
+tagline:             blog
+description:         ''
+url:                 https://protos37.github.io
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              Lee Hyeonseop
+  email:             protos37@gmail.com

@@ -11,6 +11,8 @@ description:         ''
 url:                 https://protos37.github.io
 baseurl:             ''
 paginate:            5
+kramdown:
+  input:               GFM
 
 # About/contact
 author:

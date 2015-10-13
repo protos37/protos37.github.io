@@ -11,8 +11,9 @@ description:         ''
 url:                 https://protos37.github.io
 baseurl:             ''
 paginate:            5
-kramdown:
-  input:               GFM
+markdown:            redcarpet
+redcarpet:
+  extensions:        ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript", "tables", "with_toc_data"]
 
 # About/contact
 author:

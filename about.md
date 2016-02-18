@@ -3,9 +3,9 @@ layout: page
 title: About
 ---
 
-# Lee Hyeonseop
+# Hyeonseop Lee
 
-protos37@gmail.com
+hyeonseop@ls-al.me
 
 ---
 
@@ -41,13 +41,13 @@ protos37@gmail.com
 
 &nbsp;&nbsp;Vice Student Representative<span class="small"> in 2014</span>  
 &nbsp;&nbsp;Student Representative<span class="small"> in 2015</span>  
-&nbsp;&nbsp;2013 - Present
+&nbsp;&nbsp;2014 - 2015
 
 ### KAIST CERT
 
 &nbsp;&nbsp;Student Crew  
 &nbsp;&nbsp;Manager<span class="small"> in 2014</span>  
-&nbsp;&nbsp;2013 - Present
+&nbsp;&nbsp;2013 - 2015
 
 ---
 
@@ -76,9 +76,9 @@ Framework to run [click](https://github.com/kohler/click) elements in [NBA](http
 - SECCON 2014 CTF<span class="small"> Tokyo, Japan</span>
 - WHITEHAT CONTEST 2014<span class="small"> Seoul, Korea</span>
 - KAIST-POSTECH Science War 2014<span class="small"> Pohang, Korea</span>
-- SECUINSIDE 2013 CTF<span class="small"> Seoul, Korea</span>
 - DEFCON 22 CTF<span class="small"> Las Vegas, USA</span>
 - CODEGATE 2014 CTF<span class="small"> Seoul, Korea</span>
+- SECUINSIDE 2013 CTF<span class="small"> Seoul, Korea</span>
 - KAIST-POSTECH Science War 2013<span class="small"> Daejeon, Korea</span>
 - Other Online CTFs
 

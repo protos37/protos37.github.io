@@ -1,0 +1,16 @@
+---
+layout: page
+title: About
+---
+
+{% include profile.html %}
+
+<div>
+	{% for category in site.data.about %}
+	<hr>
+	<h2>{{ category.title }}</h2>
+	{% for item in category.items %}
+	{{ item }}<br>
+	{% endfor %}
+	{% endfor %}
+</div>

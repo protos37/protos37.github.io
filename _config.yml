@@ -1,18 +1,19 @@
 # Permalinks
-permalink:           pretty
+permalink:           /blog/:year/:month/:day/:title/
 
 # Setup
-title:               protos
-tagline:             blog
+title:               ls-al.me
+tagline:             hello, world!
 description:         ''
-url:                 https://protos37.github.io
+url:                 http://ls-al.me
 baseurl:             ''
 paginate:            5
-markdown:            redcarpet
-redcarpet:
-  extensions:        ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript", "tables", "with_toc_data"]
+paginate_path:       blog/page:num/
+markdown:            kramdown
 
 # About/contact
 author:
   name:              Hyeonseop Lee
   email:             hyeonseop@ls-al.me
+  github:            protos37
+  gravatar:          765306136df4172beccebe0859a84ad1

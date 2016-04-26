@@ -1,0 +1,36 @@
+- title: Education
+  items:
+    - KAIST, Undergraduate of School of Computing, 2013-Present
+    - Hansung Science High School, 2011-2013
+- title: Work Experiences
+  items:
+    - Software Engineering Intern, Google Inc., Mountain View, CA, Jan-Jul 2016
+    - Undergraduate Research Participant, <a href="http://an.kaist.ac.kr">KAIST Advanced Networking Lab</a>, Daejeon, Korea, Jul-Dec 2015
+    - Software Engineering Intern, Perples Inc., Seoul, Korea, Jan-Feb 2014
+- title: Projects
+  items:
+    - <a href="https://github.com/protos37/pwnbox">pwnbox</a> - Python Toolbox for Hacking and Problem Solving
+    - <a href="https://github.com/protos37/AVRE">AVRE</a> - AVR Emulator for Reverse Engineering
+    - retro-click - Framework for reusing <a href="https://github.com/kohler/click">click</a> elements in <a href="https://github.com/ANLAB-KAIST/NBA">NBA</a>
+- title: Activities
+  items:
+    - President of <a href="http://gon.kaist.ac.kr">GoN</a>, KAIST Hacking & Security Group, in 2015
+    - Leader of KAIST Student CERT in 2014
+    - Member of <a href="http://sparcs.org">SPARCS</a>, KAIST Development Group
+    - Member of RUN, KAIST Algorithm Study Group
+- title: Honors
+  items:
+    - Belluminar POC2015, 2nd place (KAIST GoN), Seoul, Korea
+    - SECCON CTF 2014, 15th place (KAIST GoN), Tokyo, Japan
+    - WHITEHAT CONTEST 2014, 2nd place (KAIST GoN), Seoul, Korea
+    - DEFCON 22 CTF, 10th place (KAIST GoN), Las Vegas, NV
+    - SECUINSIDE CTF 2014, 7th place (KAIST GoN), Seoul, Korea
+    - CODEGATE CTF 2014, 9th place (KAIST GoN), Seoul, Korea
+    -
+    - ACM-ICPC World Finals 2015, 15th place (KAIST), Marrakesh, Morocco
+    - ACM-ICPC Asia Daejeon Regional 2014, 2nd place (OriGoGi), Daejeon, Korea
+    - ACM-ICPC Asia Kuala Lumpur Regional 2014, 6th place (OriGoGi), Kuala Lumpur, Malaysia
+    - ACM-ICPC Asia Daejeon Regional 2013, 9th place (OriYeonMot), Daejeon, Korea
+    -
+    - International Olympiad in Informatics 2012, Bronze Medal, Sirmione, Italy
+    - Korea Olympiad in Informatics, 1 Top Gold, 1 Gold, 2 Silver prizes, 2007-2011

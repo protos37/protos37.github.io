@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/protos37
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://ls-al.me
+  * I am protos37 (https://keybase.io/protos37) on keybase.
+  * I have a public key with fingerprint 8E70 6251 998B DB87 23CC  D835 7EF1 95D0 B817 D603
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101ba0bb48682c57fb59a6c175f56bbc76aab24a632ed57c68a6297f552c1bca32d0a",
+            "fingerprint": "8e706251998bdb8723ccd8357ef195d0b817d603",
+            "host": "keybase.io",
+            "key_id": "7ef195d0b817d603",
+            "kid": "0101ba0bb48682c57fb59a6c175f56bbc76aab24a632ed57c68a6297f552c1bca32d0a",
+            "uid": "c53707a7b06d365ff7c8d2c4c5e06a19",
+            "username": "protos37"
+        },
+        "service": {
+            "hostname": "ls-al.me",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1462958090,
+    "expire_in": 157680000,
+    "prev": "84ab49c8b1526cea24e734193e29aa37e06c07ccfcfb95f74ec54a4d407d4b38",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMIhAnicrZJbSFRBGMd3My03NCGih25yskJat3ObmXP2pVIITe1iUVnZNjNnznpw
+O2fds1piviQZPSRlEGVBYEgPXRBEsotRYZGUPXR5sKCoEMNKia5GSXPM3npsXmbm
+4/f/z//7mN6MFF/A3x84/WLQXx7y37/VUuPbIn8P1AvEMeqEcL1QxSY2FjOYm4xU
+WYYQFkRJlAgWCVE1qMkUIJMAHUMqIWACSAhFEGMiqxgqMjMAolDDUNaRCYBMJUKx
+IhsiFoKCadlRlognLDvJbTWGRCgDSdc1YhANyQqlhqYAxExJB4ZINAkZUFS4sNJx
+PQUPR7DLQpbDa/wSmYj3D/4/566ZsKNAQSLCiIjQUCAwTUQ1Q6YqBUyEWNI90GUJ
+G+9mnI4nnKTjKkhoCAq8WmtR5g3W62SSiLl5OBbix+AfmDoxXq1MJuNhT5Ssi3vU
+HkYik/oIsWyDj5ALalnCtRxbCEucpEnLM5RUHh5ooi4GBbY3biVYxPIIgKAm8uU9
+w2q9wauYqDrViARkSBmWVYYUVdIVJusYK4i3Q0VEqUlNogMTqYwCFauGKiJDJYom
+eB1V244QhjwmjnJL14raOFmTYELD7Zs7pvr8AV9a6hTva/kC6Vl/P9xAbNp4eE2j
+3VqsHnu12vr5Y0N3wYIaGkpPXTlj8ZljrzNJf1fZ/MacwhsDp86VfTp6NJxZcOfe
+xdkZYEhSt19fVNI7puWsrRge1r5dWa+MdRR+z84ff+8bgz1Ne6ILWctXJ6Pq6YXQ
+VUDgzXOdbFlD4+Doux/CHPJ4U+fyQ7uG100fakmp7P/QdCrvTXvRzpm7Nqacbb92
+dubgh50V2a3nwcmHaaXBjt6lq0r0R8VL2vZd/tw1WjqvPFA4gkYO6Cf6cp+8TV/R
+3vfsZXnnRye/en8W6Gke32a3DatDzb9a7LfdU3LzTw88v3D3wayeuVuzjqCVB/3R
+L9sHN9uXiuoyreOHxXT3N1I/PIs=
+=BRwx
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/protos37
+
+==================================================================

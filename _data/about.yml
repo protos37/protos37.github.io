@@ -4,12 +4,12 @@
     - Hansung Science High School, 2011-2013
 - title: Work Experiences
   items:
+    - Software Engineer, <a href="http://hpcnt.com">Hyperconnect Inc.</a>, Seoul, Korea
     - Software Engineering Intern, Google Inc., Mountain View, CA, Jan-Jul 2016
-    - Undergraduate Research Participant, <a href="http://an.kaist.ac.kr">KAIST Advanced Networking Lab</a>, Daejeon, Korea, Jul-Dec 2015
     - Software Engineering Intern, Perples Inc., Seoul, Korea, Jan-Feb 2014
 - title: Projects
   items:
-    - <a href="https://github.com/protos37/pwnbox">pwnbox</a> - Python Toolbox for Hacking and Problem Solving
+    - <a href="https://github.com/pwnbox/pwnbox">pwnbox</a> - Python Toolbox for Hacking and Problem Solving
     - <a href="https://github.com/protos37/AVRE">AVRE</a> - AVR Emulator for Reverse Engineering
     - retro-click - Framework for reusing <a href="https://github.com/kohler/click">click</a> elements in <a href="https://github.com/ANLAB-KAIST/NBA">NBA</a>
 - title: Activities
@@ -20,6 +20,7 @@
     - Member of RUN, KAIST Algorithm Study Group
 - title: Honors
   items:
+    - DEFCON 24 CTF, 5th place (KaisHack GoN), Las Vegas, NV
     - Belluminar POC2015, 2nd place (KAIST GoN), Seoul, Korea
     - SECCON CTF 2014, 15th place (KAIST GoN), Tokyo, Japan
     - WHITEHAT CONTEST 2014, 2nd place (KAIST GoN), Seoul, Korea

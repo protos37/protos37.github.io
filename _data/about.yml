@@ -12,6 +12,7 @@
     - <a href="https://github.com/pwnbox/pwnbox">pwnbox</a> - Python Toolbox for Hacking and Problem Solving
     - <a href="https://github.com/protos37/AVRE">AVRE</a> - AVR Emulator for Reverse Engineering
     - retro-click - Framework for reusing <a href="https://github.com/kohler/click">click</a> elements in <a href="https://github.com/ANLAB-KAIST/NBA">NBA</a>
+    - CGC-Console - <a href="https://www.darpa.mil/program/cyber-grand-challenge">Cyber Grand Challenge</a> Contest Framework, used in DEFCON 24 CTF
 - title: Activities
   items:
     - President of <a href="http://gon.kaist.ac.kr">GoN</a>, KAIST Hacking & Security Group, in 2015
@@ -20,6 +21,8 @@
     - Member of RUN, KAIST Algorithm Study Group
 - title: Honors
   items:
+    - WHITEHAT CONTENT 2017, 1st place (Old GoatskiN), Seoul, Korea
+    - KISA HDCON 2017, 1st place (maxlen), Seoul, Korea
     - DEFCON 24 CTF, 5th place (KaisHack GoN), Las Vegas, NV
     - Belluminar POC2015, 2nd place (KAIST GoN), Seoul, Korea
     - SECCON CTF 2014, 15th place (KAIST GoN), Tokyo, Japan
@@ -33,5 +36,7 @@
     - ACM-ICPC Asia Kuala Lumpur Regional 2014, 6th place (OriGoGi), Kuala Lumpur, Malaysia
     - ACM-ICPC Asia Daejeon Regional 2013, 9th place (OriYeonMot), Daejeon, Korea
     -
+    - Samsung Collegiate Programming Cup 2017, 4th prize, Seoul, Korea
+    - Samsung Collegiate Programming Cup 2016, 5th prize, Seoul, Korea
     - International Olympiad in Informatics 2012, Bronze Medal, Sirmione, Italy
     - Korea Olympiad in Informatics, 1 Top Gold, 1 Gold, 2 Silver prizes, 2007-2011
